@@ -8,3 +8,15 @@ I would create a pull request, but the mod name had to be changed to get it onto
 Edit (20/04/17): Rseding91 (via Reddit PM) has kindly given permission for this mod to stay updated.
 
 Updated for 0.16!
+
+## Changelog
+
+1.0.5:
+- Updated for 0.16
+
+1.0.4:
+- Fixed filename issue for zipped version, servers now shouldn't complain when loading the mod
+
+1.0.3:
+- Updated info.json "factorio_version" to "0.15"
+- Bumped version number
